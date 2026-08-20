@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openaire-evidence-trail"
+version = "0.1.0"
+description = "Provenance-first evidence maps from OpenAIRE records"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/QuanticFlare/openaire-evidence-trail"
+Demo = "https://quanticflare.github.io/openaire-evidence-trail/docs/demo/evidence-trail-live.html"
+
+[project.scripts]
+evidence-trail = "evidence_trail.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

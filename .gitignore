@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.key
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+node_modules/
+.afk/
+.codex/worktrees/
+.claude/worktrees/
+*.log
+build/
+docs/submission/*.docx
+docs/submission/*.pdf
