@@ -88,11 +88,3 @@ and submission materials are available under [CC BY 4.0](LICENSE-DOCS.md).
 ## Delivery plan
 
 The executable plan is maintained as checkable, evidence-gated tickets in [TICKETS.md](TICKETS.md). The intended Build-track artifact is **Evidence Trail**: a research-question workflow that maps OpenAIRE publications, datasets, software, projects, funders, supporting evidence, contradictions, and missing links without making untraceable claims.
-
-## Maintainer orientation
-
-- `AGENTS.md` is the Codex instruction overlay.
-- `HANDOFF.md` is the live state and should be read first when resuming.
-- `ERRORS.md` and `FEATURE_REQUESTS.md` are created only when there is a real entry.
-
-The focused verifier is registered in `/Users/danlowry/Desktop/AI/ops/PROJECT_VERIFIERS.md`.
