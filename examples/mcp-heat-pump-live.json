@@ -1,0 +1,93 @@
+{
+  "question": "Which heat-pump flexibility research is connected to funded projects and reusable open artifacts?",
+  "retrieval": {
+    "transport": "Alien Intelligence MCP Gateway",
+    "service": "OpenAIRE Graph API V3",
+    "retrieved_at_utc": "2026-08-20T16:02:23Z",
+    "query": "heat pump flexibility",
+    "page": 1,
+    "page_size": 5,
+    "note": "This bounded snapshot preserves only relationships returned by the live MCP. It does not infer links between separate search results."
+  },
+  "records": [
+    {
+      "id": "doi_________::41413068adb6fc05b2b2bfe294720212",
+      "type": "publication",
+      "title": "The potential of decentral heat pumps as flexibility option for decarbonised energy systems",
+      "source_url": "https://doi.org/10.1007/s12053-024-10206-z",
+      "projects": [
+        {
+          "id": "corda__h2020::5c3103ac63e6c9e616c718b5d65ec58d",
+          "type": "project",
+          "title": "Auctions for Renewable Energy Support II",
+          "source_url": "https://doi.org/10.3030/817619"
+        }
+      ],
+      "datasets": [],
+      "software": []
+    },
+    {
+      "id": "doi_dedup___::b48435b2a226ece3f0b16fac39ee13da",
+      "type": "publication",
+      "title": "Dynamic modeling and simulation of a heat pump system for enhancing cycle flexibility",
+      "source_url": "https://doi.org/10.1051/e3sconf/201911301007",
+      "projects": [
+        {
+          "id": "corda__h2020::450ad641bed360909831beba83dfcbbb",
+          "type": "project",
+          "title": "Performance Untapped Modulation for Power and Heat via Energy Accumulation Technologies",
+          "source_url": "https://doi.org/10.3030/764706"
+        }
+      ],
+      "datasets": [],
+      "software": []
+    },
+    {
+      "id": "doi_dedup___::3f1722337b77704550b638aed0432b50",
+      "type": "dataset",
+      "title": "Demand response with heat pumps: Practical implementation of three different control options",
+      "source_url": "https://doi.org/10.25384/sage.c.6345957",
+      "projects": [
+        {
+          "id": "ukri________::8a4947ccc7272e73a867acaf049667b7",
+          "type": "project",
+          "title": "EPSRC and SFI Centre for Doctoral Training in Energy Resilience and the Built Environment",
+          "source_url": "https://explore.openaire.eu/search/project?pid=ukri________%3A%3A8a4947ccc7272e73a867acaf049667b7"
+        },
+        {
+          "id": "ukri________::b9fc0a31f64effbb725cdb3d5c9c4fe2",
+          "type": "project",
+          "title": "UK Centre for Research on Energy Demand",
+          "source_url": "https://explore.openaire.eu/search/project?pid=ukri________%3A%3Ab9fc0a31f64effbb725cdb3d5c9c4fe2"
+        }
+      ],
+      "datasets": [],
+      "software": []
+    },
+    {
+      "id": "doi_dedup___::59a64f6c9fe1135fac2acda26168b39c",
+      "type": "software",
+      "title": "Mixed Integer Linear Programming Model of House with Heat Pump and Electric Vehicle in DNO Flexibility Market and Balancing Mechanism",
+      "source_url": "https://doi.org/10.48420/23778021",
+      "projects": [],
+      "datasets": [],
+      "software": []
+    },
+    {
+      "id": "doi_dedup___::09f6f326833613d65dc0182720672c1a",
+      "type": "software",
+      "title": "Multi-Layered Modelling Knowledge Graph and Response Derivative Framework for Autonomous Buildings, Energy Communities, and Positive Energy Districts",
+      "source_url": "https://doi.org/10.5281/zenodo.20172593",
+      "projects": [
+        {
+          "id": "corda_____he::775d45680c52885ea8e8207d4f875113",
+          "type": "project",
+          "title": "Open CloudEdgeIoT Platform Uptake in Large Scale Cross-Domain Pilots",
+          "source_url": "https://doi.org/10.3030/101189589"
+        }
+      ],
+      "datasets": [],
+      "software": []
+    }
+  ]
+}

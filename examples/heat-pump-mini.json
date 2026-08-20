@@ -1,0 +1,28 @@
+{
+  "question": "Which heat-pump flexibility research is connected to funded projects and reusable open artifacts?",
+  "records": [
+    {
+      "id": "doi_dedup___::283ce5402ab8229b2b78e930bbfc346d",
+      "type": "publication",
+      "title": "Demand response with heat pumps: Practical implementation of three different control options",
+      "source_url": "https://explore.openaire.eu/search/publication?pid=doi_dedup___%3A%3A283ce5402ab8229b2b78e930bbfc346d",
+      "projects": [
+        {
+          "id": "ukri________::b9fc0a31f64effbb725cdb3d5c9c4fe2",
+          "type": "project",
+          "title": "UK Centre for Research on Energy Demand",
+          "source_url": "https://explore.openaire.eu/search/project?pid=ukri________%3A%3Ab9fc0a31f64effbb725cdb3d5c9c4fe2"
+        },
+        {
+          "id": "ukri________::8a4947ccc7272e73a867acaf049667b7",
+          "type": "project",
+          "title": "EPSRC and SFI Centre for Doctoral Training in Energy Resilience and the Built Environment",
+          "source_url": "https://explore.openaire.eu/search/project?pid=ukri________%3A%3A8a4947ccc7272e73a867acaf049667b7"
+        }
+      ],
+      "datasets": [],
+      "software": []
+    }
+  ]
+}
+
